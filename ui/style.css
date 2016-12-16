@@ -41,7 +41,7 @@ p1{
     color:white;
     background-color:DarkMagenta;
      text-align: center;
-    font-size:30px;
+    font-size:25px;
 }
 body
 {
@@ -65,7 +65,7 @@ p3{
 
 li{
     width:100%;
-    border:2px solid #FFF;
+    border:2px solid #DDD;
     border-radius:20px;
     padding:10px;
 }
