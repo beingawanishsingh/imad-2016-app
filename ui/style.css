@@ -64,9 +64,9 @@ p3{
 }
 
 li{
-    width:100%;
+    width:60%;
     border:2px solid #DDD;
     border-radius:20px;
     padding:10px;
-    margin:15px;
+    margin:auto;
 }
