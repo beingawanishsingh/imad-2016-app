@@ -15,7 +15,10 @@ img {
 body {
     font-family: sans-serif;
     background-image:url("http://www.ibackgrounds.net/wp-content/uploads/2016/10/badminton-shuttle-wallpaper-1024x727.jpg");
-    background-size:1024px 800px;
+     -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
     
 }
 
