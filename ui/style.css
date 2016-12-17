@@ -14,7 +14,8 @@ img {
 }   
 body {
     font-family: sans-serif;
-    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoBOkOR1LlqXGM_3qRu_BBvRwt7Z1qs0IjCJbWHtDY_AGuzlO3");
+    background:magenta;
+    
 }
 
 .center {
