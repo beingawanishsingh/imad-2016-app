@@ -14,7 +14,9 @@ img {
 }   
 body {
     font-family: sans-serif;
-    background:#00FFFF;
+    background:url("http://www.zryxsw.com/data/out/7/382952-badminton-wallpaper.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
     
 }
 
